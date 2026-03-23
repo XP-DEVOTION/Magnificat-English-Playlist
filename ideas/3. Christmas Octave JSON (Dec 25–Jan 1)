@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Magnificat – Christmas Day",
+    "subtitle": "Christmas Octave – Day 1",
+    "description": "The first day of the Christmas Octave, celebrating the Nativity of the Lord.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-dec25-octave-01.mp3",
+    "date": "December 25"
+  },
+  {
+    "title": "Magnificat – St. Stephen",
+    "subtitle": "Christmas Octave – Day 2",
+    "description": "The second day of the Christmas Octave, honoring St. Stephen the First Martyr.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-dec26-octave-02.mp3",
+    "date": "December 26"
+  },
+  {
+    "title": "Magnificat – St. John the Apostle",
+    "subtitle": "Christmas Octave – Day 3",
+    "description": "The third day of the Christmas Octave, honoring St. John the Apostle and Evangelist.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-dec27-octave-03.mp3",
+    "date": "December 27"
+  },
+  {
+    "title": "Magnificat – Holy Innocents",
+    "subtitle": "Christmas Octave – Day 4",
+    "description": "The fourth day of the Christmas Octave, commemorating the Holy Innocents.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-dec28-octave-04.mp3",
+    "date": "December 28"
+  },
+  {
+    "title": "Magnificat – Fifth Day of the Octave",
+    "subtitle": "Christmas Octave – Day 5",
+    "description": "The fifth day of the Christmas Octave, continuing the celebration of the Nativity.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-dec29-octave-05.mp3",
+    "date": "December 29"
+  },
+  {
+    "title": "Magnificat – Sixth Day of the Octave",
+    "subtitle": "Christmas Octave – Day 6",
+    "description": "The sixth day of the Christmas Octave, celebrating the mystery of the Incarnation.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-dec30-octave-06.mp3",
+    "date": "December 30"
+  },
+  {
+    "title": "Magnificat – Seventh Day of the Octave",
+    "subtitle": "Christmas Octave – Day 7",
+    "description": "The seventh day of the Christmas Octave, honoring the final day of the civil year.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-dec31-octave-07.mp3",
+    "date": "December 31"
+  },
+  {
+    "title": "Magnificat – Mary, Mother of God",
+    "subtitle": "Christmas Octave – Day 8",
+    "description": "The eighth day of the Christmas Octave, celebrating the Solemnity of Mary, Mother of God.",
+    "mp3URL": "https://yourcdn.com/magnificat-12-jan01-octave-08.mp3",
+    "date": "January 1"
+  }
+]
