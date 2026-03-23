@@ -1,4 +1,4 @@
-# YouTube + GitHub-as-a-Content-Hub
+# Magnificat (English) - YouTube Playlist
 
 
 
